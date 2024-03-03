@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{519:function(t,s,n){"use strict";n.r(s);var o=n(2),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("div",{staticClass:"custom-block tip"},[t("p",[this._v("vscode的下载、安装及配置")])])])}),[],!1,null,null,null);s.default=e.exports}}]);
